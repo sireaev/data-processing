@@ -1,0 +1,16 @@
+{
+  "name": "decision-tree-processing",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "type": "module",
+  "keywords": [],
+  "author": "Sireaev Vladislav",
+  "license": "ISC",
+  "description": "",
+  "scripts": {
+    "start": "node --import @swc-node/register/esm-register index.ts"
+  },
+  "devDependencies": {
+    "@swc-node/register": "^1.10.9"
+  }
+}
